@@ -1,9 +1,8 @@
-
-<h1 align="center">✨ Hello World! I'm <span style="color: teal;">VISHWA PANDIYAN</span> 👩‍💻</h1>
-<p align="center"><em>Creative Flutter Developer | AI Enthusiast | HealthTech Innovator</em></p>
+<h1 align="center">✨ Hello World! I'm <span style="color: teal;">VISHWA PANDIYAN</span> 👨‍💻</h1>
+<p align="center"><em>👨‍🔬 Creative Flutter Developer | 🤖 AI Enthusiast | 💊 HealthTech Innovator</em></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Flutter+%F0%9F%92%BB+%2B+AI+%3D+Love;Let%E2%80%99s+build+innovative+AI+apps!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Flutter+%F0%9F%92%BB+%2B+AI+%3D+Future;Let%E2%80%99s+build+innovative+AI+apps!" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,10 +11,10 @@
 
 - 💡 Passionate about **building impactful mobile applications & ML Models**
 - 🧠 Currently working on: `SpeakSi` – AI-powered speaking companion  
-- 🧪 Core Member at [Speaksi]([https://github.com/InventoVerse](https://github.com/vishwapandiyan/SpeakSi1.git)): Building innovation.
-- 🎯 Past Projects: `CPM-IASOP`, `To-do app`, `lab report RAG`
-- 📍 Based in: India
-- 🌱 Constantly learning: AI integration in mobile development
+- 🧪 Core Member at [SpeakSi](https://github.com/vishwapandiyan/SpeakSi1.git) – Building innovation
+- 🎯 Past Projects: `CPM-IASOP` 💊, `To-do app` 📝, `lab report RAG` 🧠
+- 📍 Based in: 🇮🇳 India
+- 🌱 Constantly learning: 🤝 AI integration in mobile development
 
 ---
 
@@ -42,10 +41,9 @@
 
 ### 🏆 Projects You Should See
 
-- 💬 **[SpeakSi](https://github.com/vishwapandiyan/SpeakSi1.git))** – Your personalized AI speaking companion  
-- 💊 **[CPM-IASOP](https://github.com/vishwapandiyan/CPM-IASOP.git)** – Smart dispensing machine tracking app  
-- 🧠 **[Medical Report RAG](https://github.com/vishwapandiyan/lap_report_rag.git)** – AI to make lab reports
-
+- 💬 **[SpeakSi](https://github.com/vishwapandiyan/SpeakSi1.git)** – Your personalized AI speaking companion 🎙️  
+- 💊 **[CPM-IASOP](https://github.com/vishwapandiyan/CPM-IASOP.git)** – Smart medicine dispenser & tracking system  
+- 🧠 **[Medical Report RAG](https://github.com/vishwapandiyan/lap_report_rag.git)** – AI for understanding lab reports
 
 ---
 
@@ -71,6 +69,15 @@
 
 ---
 
+---
+
+### 💬 My Moto
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blank&show_icons=false&hide_title=true&hide_rank=true&include_all_commits=false&custom_title=%22&theme=tokyonight&text_color=ffffff&bg_color=00000000" width="0" height="0"/>
 </p>
+
+<p align="center" style="font-style: italic; color: #58a6ff; font-size: 16px;">
+  ❝ Make error to avoid error ❞  
+</p>
+<p align="center" style="color: #bdbdbd;">— vishwa</p>
