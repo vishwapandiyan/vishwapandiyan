@@ -3,7 +3,7 @@
 <p align="center"><em>Creative Flutter Developer | AI Enthusiast | HealthTech Innovator</em></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Flutter+%F0%9F%92%BB+%2B+AI+%3D+Love;Let%E2%80%99s+build+innovative+AI-powered apps+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Flutter+%F0%9F%92%BB+%2B+AI+%3D+Love;Let%E2%80%99s+build+innovative+AI+apps!" alt="Typing SVG" />
 </p>
 
 ---
