@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://profile-counter.glitch.me/vishwapandiyan/count.svg?" />
+</p>
+
 <h1 align="center">✨ Hlo fellow techies! I'm <span style="color: teal;">VISHWA PANDIYAN</span> 👨‍💻</h1>
 <p align="center"><em>👨‍🔬 Creative Flutter Developer | 🤖 AI Enthusiast | 💊 HealthTech Innovator</em></p>
 
@@ -56,6 +60,15 @@
 
 ---
 
+### 💬 My Motto
+
+<div align="center">
+  <img width="800px" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=header&text=❝%20Make%20Error%20to%20Avoid%20Error%20❞&fontColor=58a6ff&fontSize=22&animation=fadeIn" />
+  <p style="color:#bdbdbd; font-style:italic; text-align:center;">— Vishwa</p>
+</div>
+
+---
+
 ### 🌐 Let's Connect
 
 <p align="center">
@@ -69,15 +82,8 @@
 
 ---
 
----
+<div align="center">
+  <img src="https://profile-counter.glitch.me/vishwapandiyan/count.svg?"  />
+</div>
 
-### 💬 My Moto
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blank&show_icons=false&hide_title=true&hide_rank=true&include_all_commits=false&custom_title=%22&theme=tokyonight&text_color=ffffff&bg_color=00000000" width="0" height="0"/>
-</p>
-
-<p align="center" style="font-style: italic; color: #58a6ff; font-size: 16px;">
-  ❝ Make error to avoid error ❞  
-</p>
-<p align="center" style="color: #bdbdbd;">— vishwa</p>
+###
