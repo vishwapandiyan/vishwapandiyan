@@ -12,7 +12,7 @@
 
 - 🎓 **Education:** Pre-final year BTech student in **Artificial Intelligence and Data Science** at Sri Manakula Vinayagar Engineering College.
 - 💼 **Experience:** Former **Software Engineering Intern** at *Cloud Couch Tech Private Limited*, engineering highly optimized, production-grade applications.
-- 👑 **Leadership:** **AWS Cloud Club Captain 2026** (Gold, Silver, and Bronze badge earner), leading student cloud communities and organizing high-impact tech events.
+- 👑 **Leadership:** **AWS Cloud Club Captain 2026** (Gold, Silver, and Bronze badge earner), leading student cloud community and organizing high-impact tech events.
 - 💡 **Passion:** Building scalable, cross-platform mobile apps, designing secure cloud architectures, and integrating generative AI pipelines.
 
 ---
@@ -60,11 +60,18 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwapandiyan&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwapandiyan&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <a href="https://github.com/vishwapandiyan">
+    <img src="https://img.shields.io/github/followers/vishwapandiyan?label=Followers&style=for-the-badge&color=02569B" />
+  </a>
+  <a href="https://github.com/vishwapandiyan?tab=repositories">
+    <img src="https://img.shields.io/github/stars/vishwapandiyan?label=Total%20Stars&style=for-the-badge&color=FF9900" />
+  </a>
+  <a href="https://github.com/vishwapandiyan">
+    <img src="https://img.shields.io/github/search/vishwapandiyan/SpeakSi?label=Contributions&style=for-the-badge&color=3ECF8E" />
+  </a>
 </p>
 
 ---
@@ -91,8 +98,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vishwapandiyan/count.svg" />
-</div>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=spring&text=%F0%9F%9A%80%20Keep%20Coding%20and%20Building%20the%20Future%20%E2%98%81%EF%B8%8F&width=800&height=50&fontColor=ffffff&color=0f172a" width="100%" />
+</p>
 
 ```
