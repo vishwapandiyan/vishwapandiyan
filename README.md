@@ -1,4 +1,3 @@
-
 <h1 align="center">✨ Hello fellow techies! I'm <span style="color: #02569B;">VISHWA PANDIYAN</span> 👨‍💻</h1>
 <p align="center"><em>🤖 AI & Data Science Student | 📱 Passionate Flutter Developer | ☁️ AWS Cloud Captain & Architect</em></p>
 
@@ -69,8 +68,8 @@
   <a href="https://github.com/vishwapandiyan?tab=repositories">
     <img src="https://img.shields.io/github/stars/vishwapandiyan?label=Total%20Stars&style=for-the-badge&color=FF9900" />
   </a>
-  <a href="https://github.com/vishwapandiyan">
-    <img src="https://img.shields.io/github/search/vishwapandiyan/SpeakSi?label=Contributions&style=for-the-badge&color=3ECF8E" />
+  <a href="https://github.com/vishwapandiyan?tab=repositories">
+    <img src="https://img.shields.io/github/repos/count/vishwapandiyan?label=Repositories&style=for-the-badge&color=3ECF8E" />
   </a>
 </p>
 
@@ -99,7 +98,5 @@
 ---
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=spring&text=%F0%9F%9A%80%20Keep%20Coding%20and%20Building%20the%20Future%20%E2%98%81%EF%B8%8F&width=800&height=50&fontColor=ffffff&color=0f172a" width="100%" />
+  <strong>🚀 Keep Coding and Building the Future ☁️</strong>
 </p>
-
-```
