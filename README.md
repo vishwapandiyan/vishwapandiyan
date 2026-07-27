@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **Education:** Pre-final year BTech student in **Artificial Intelligence and Data Science** at Sri Manakula Vinayagar Engineering College.
+- 🎓 **Education:**final year BTech student in **Artificial Intelligence and Data Science** at Sri Manakula Vinayagar Engineering College.
 - 💼 **Experience:** Former **Software Engineering Intern** at *Cloud Couch Tech Private Limited*, engineering highly optimized, production-grade applications.
 - 👑 **Leadership:** **AWS Cloud Club Captain 2026** (Gold, Silver, and Bronze badge earner), leading student cloud community and organizing high-impact tech events.
 - 💡 **Passion:** Building scalable, cross-platform mobile apps, designing secure cloud architectures, and integrating generative AI pipelines.
